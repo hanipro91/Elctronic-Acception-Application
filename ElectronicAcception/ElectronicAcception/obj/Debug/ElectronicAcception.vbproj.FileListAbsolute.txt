@@ -1,0 +1,16 @@
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.dll
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.pdb
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.xml
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.Resources.resources
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.vbproj.GenerateResource.Cache
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.dll
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.xml
+D:\2020\Onlin Shopping websit\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.pdb
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.dll
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.pdb
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\bin\ElectronicAcception.xml
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.Resources.resources
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.vbproj.GenerateResource.Cache
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.dll
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.xml
+D:\2020\Elctronic Acception Application\ElectronicAcception\ElectronicAcception\obj\Debug\ElectronicAcception.pdb
